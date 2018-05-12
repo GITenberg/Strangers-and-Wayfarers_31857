@@ -1,0 +1,36 @@
+_repo: Strangers-and-Wayfarers_31857
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jewett, Sarah Orne
+    birthdate: 1849
+    deathdate: 1909
+    gutenberg_agent_id: '202'
+    url: http://www.gutenberg.org/2009/agents/202
+    wikipedia: http://en.wikipedia.org/wiki/Sarah_Orne_Jewett
+description: A winter courtship ; The mistress of Sydenham plantation ; The town poor
+  ; The quest of Mr. Teaby ; The luck of the Bogans ; Fair day ; Going to Shrewsbury
+  ; The taking of Captain Ball ; By the morning boat ; In dark New England days ;
+  The white rose road.
+gutenberg_issued: '2010-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31857'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New England -- Social life and customs -- Fiction'
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- !lcsh 'United States -- Social life and customs -- 19th century -- Fiction'
+tableOfContents: A winter courtship -- The mistress of Sydenham plantation -- The
+  town poor -- The quest of Mr. Teaby -- The luck of the Bogans -- Fair day -- Going
+  to Shrewsbury -- The taking of Captain Ball -- By the morning boat -- In dark New
+  England days -- The white rose road.
+title: Strangers and Wayfarers
+url: http://www.gutenberg.org/ebooks/31857
